@@ -1,2 +1,0 @@
-# GitDesarrollo
-Prueba de git
